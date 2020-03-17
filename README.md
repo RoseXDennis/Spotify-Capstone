@@ -6,7 +6,7 @@
 .
 ├── Code
 ├── Data
-├── Image_Plots
+├── Images_Plots
 ├── Final_Report.md
 ├── Notes.txt
 ├── README.md
@@ -32,7 +32,7 @@ For more details on the files within the directories, there is a `README.md` fil
 
 > The .csv files outputted through the process of this project's timeline. Used the 'final_without_duplicates.csv' file for modeling.
 
-* *[Image_Plots](Image_Plots)*
+* *[Images_Plots](Images_Plots)*
 
 > A directory that holds the images and plots used in the presentation and the final report. 
 
