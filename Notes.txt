@@ -1,0 +1,22 @@
+Couple of issues when getting the data:
+
+- can only pull 100 tracks at a time so kept the first 100 songs of a playlist
+- can only get 50 artists at a time so had to split the playlist into two sometimes
+- interestingly enough, some artists didn't have a genre attached so I had to print an 'NA' if this was the case
+- Need to be very wary of the length of the playlist before you started running the functions on it
+- When we joined the genres dataframe we needed an extra argument 'reset_index'. Otherwise it had duplicates.
+- Many playlists had 54 songs
+- Some playlists had videos which wouldn't work with my code (ie. RapCaviar first two songs) so skipped over these
+- First time using try, except, and continue
+- trying to build my final function that outputted a DF, I had to switch the way I got the artist pop scores and genres
+- when i looped through the playlist IDs some would break the code so had to try and except and print out the playlist that broke it...made me lose some of my data ~ 1/40
+- popularity score is time dependent
+- initially thought to have a bunch of genre csv files but easier to create one big dataframe and filter later.
+- The final dataframe that I'll work with is static and was pulled on Feb 27, 2020
+- The function that found how many genre playlists over 20,000 followers worked but when I ran the next piece of code, it would skip some playlists--the ones that broke for some reason that I didn't have time to fix...therefore ended up with less than the number the first function gave me..that's why I noted how many songs for each genre instead of how many playlists.
+- had to go back and add the playlist id to the dataframe
+- wanting to look at duplicates, also missing values
+- took about an hour to get to the final dataframe
+- not uniform playlists/genres...I did not make each playlist have the same amount of songs nor did I make sure for each genre there were the same number of playlists
+- there were multiple versions of the same song with DIFFERENT track IDs
+- artist popularity is actually derived from track pop

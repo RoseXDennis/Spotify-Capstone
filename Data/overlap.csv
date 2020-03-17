@@ -1,0 +1,241 @@
+track_ids,track_pop,track_name,artist,artist_ids,featured_artist,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,duration_ms,time_signature,artist_pop,genre,category
+03fT3OHB9KyMtGMt2zwqCT,73,Play It Again,Luke Bryan,0BvkDsjIUla7X0k6CSWh1I,0,0.506,0.8859999999999999,11,-3.225,1,0.0655,0.0916,0.0,0.0734,0.595,143.935,226867,4,81,contemporary country,country
+7mldq42yDuxiUNn08nvzHO,77,Body Like A Back Road,Sam Hunt,2kucQ9jQwuD8jWdtR9Ef38,0,0.732,0.458,5,-7.225,1,0.0311,0.447,0.0,0.136,0.6609999999999999,98.938,165387,4,78,contemporary country,country
+05ZACkzW8YbRq3eFgIfSNB,71,Springsteen,Eric Church,2IvkS5MXK0vPGnwyJsrEyV,0,0.6920000000000001,0.809,2,-5.935,1,0.0255,0.1,9.77e-05,0.185,0.927,104.023,263387,4,77,contemporary country,country
+5S5rw0WLVCAux5B5bWCehK,68,I Like The Sound Of That,Rascal Flatts,0a1gHP0HAqALbEyxaD5Ngn,0,0.611,0.8,0,-5.61,1,0.0377,0.257,0.0,0.194,0.527,89.97399999999998,209280,4,76,contemporary country,country
+1Wjk9qHVbxgOopOEP9SqLW,7,Sleep Without You,Brett Young,0fiWOxhsBsQQvFDtxUQWo0,0,0.631,0.716,10,-5.712999999999999,1,0.0432,0.013,0.0,0.0756,0.647,88.541,187813,4,76,contemporary country,country
+1TwLKNsCnhi1HxbIi4bAW0,70,House Party,Sam Hunt,2kucQ9jQwuD8jWdtR9Ef38,0,0.747,0.861,8,-5.251,1,0.0514,0.113,0.0,0.026,0.8590000000000001,103.966,190240,4,78,contemporary country,country
+7iDa6hUg2VgEL1o1HjmfBn,79,Meant to Be (feat. Florida Georgia Line),Bebe Rexha,64M6ah0SkkRsnPGtGiRAbb,1,0.643,0.7829999999999999,10,-6.457999999999998,1,0.0856,0.047,0.0,0.083,0.579,154.084,163870,4,87,dance pop,country
+7px4t7HGiuMUvFkEOpZEwp,64,Song for Another Time,Old Dominion,6y8XlgIV8BLlIg1tT1R10i,0,0.4970000000000001,0.805,11,-3.995,1,0.0332,0.125,0.0,0.16699999999999998,0.696,166.048,191827,4,77,contemporary country,country
+3ksmU0DaEUMEVzx5V6cc3z,37,One Man Band,Old Dominion,6y8XlgIV8BLlIg1tT1R10i,0,0.705,0.363,6,-8.327,1,0.0355,0.667,0.0,0.112,0.482,75.98,186520,4,77,contemporary country,country
+3npzogdOEiVsieXmmhBepL,79,The Bones,Maren Morris,6WY7D3jk8zTrHtmkqqo5GI,0,0.612,0.57,11,-6.642,0,0.0347,0.279,0.0,0.0963,0.335,77.00399999999998,197293,4,81,contemporary country,country
+42fw0rxRO2xbesF6mJfd4Y,75,Tequila,Dan + Shay,7z5WFjZAIYejWy0NI5lv4T,0,0.489,0.581,11,-5.731,1,0.0281,0.0312,0.0,0.132,0.494,86.016,196747,4,85,contemporary country,country
+6MBUUSIWCzaXW4q58Ktrv9,71,Slow Dance In A Parking Lot,Jordan Davis,77kULmXAQ6vWer7IIHdGzI,0,0.523,0.8370000000000001,7,-4.494,1,0.0335,0.301,0.0,0.172,0.523,82.006,193929,4,72,contemporary country,country
+2wrJq5XKLnmhRXHIAf9xBa,89,"10,000 Hours (with Justin Bieber)",Dan + Shay,7z5WFjZAIYejWy0NI5lv4T,1,0.654,0.63,10,-4.644,1,0.0259,0.153,0.0,0.111,0.43,89.991,167693,4,85,contemporary country,country
+1kqVSbwdlNKsPGv0aehcAZ,37,What If I Never Get Over You,Lady Antebellum,32WkQRZEVKSzVAAYqukAEA,0,0.58,0.725,0,-5.124,1,0.0273,0.016,0.0,0.107,0.369,93.014,206230,4,76,contemporary country,country
+1Ut1A8UaNqGuwsHgWq75PW,60,Lonely If You Are,Chase Rice,6pBNfggcZZDCmb0p92OnGn,0,0.593,0.745,7,-4.37,1,0.0574,0.19,0.0,0.227,0.8490000000000001,169.951,175067,4,73,contemporary country,country
+11dJXX4oXQBZLkVwuQ8oxw,11,Lost In Your Love,Music Travel Love,2qNrJcE9LjzPdiXbrjkqFa,0,0.82,0.624,0,-6.386,1,0.0574,0.225,1.38e-06,0.168,0.633,106.023,164939,4,64,canadian contemporary country,country
+6arLnfArtdWKOcCYzDd4rS,59,Nowhere Fast,Old Dominion,6y8XlgIV8BLlIg1tT1R10i,0,0.7879999999999999,0.488,7,-7.319,1,0.0286,0.46,4.52e-06,0.0751,0.48,101.974,188960,4,77,contemporary country,country
+79qxwHypONUt3AFq0WPpT9,72,Rainbow,Kacey Musgraves,70kkdajctXSbqSMJbQO424,0,0.581,0.197,3,-7.697,1,0.0329,0.88,0.0,0.107,0.349,130.36700000000002,214293,4,78,contemporary country,country
+1dgWTMoHwTUnQhOQ8SR5fV,68,American Kids,Kenny Chesney,3grHWM9bx2E9vwJCdlRv9O,0,0.733,0.589,7,-7.37,1,0.1,0.0476,5.85e-06,0.0366,0.867,170.097,182960,4,77,contemporary country,country
+6DEaND0SHv3sC11xobZLiy,68,Take Your Time,Sam Hunt,2kucQ9jQwuD8jWdtR9Ef38,0,0.5579999999999999,0.7190000000000001,11,-5.603,1,0.0419,0.101,0.0,0.212,0.483,158.031,243707,4,78,contemporary country,country
+2TR7A4ulH9R1PNwMyd8o8U,67,This Is How We Roll,Florida Georgia Line,3b8QkneNDz4JHKKKlLgYZg,1,0.555,0.931,8,-2.969,1,0.0367,0.016,0.0,0.405,0.723,132.085,220907,4,84,contemporary country,country
+3un2KQUaQ2brEpd8dK93wI,60,Beat of the Music,Brett Eldredge,0qSX3s5pJnAlSsgsCne8Cz,0,0.629,0.8079999999999999,9,-4.125,1,0.0269,0.00898,9.06e-06,0.0751,0.773,110.001,179293,4,69,adult standards,country
+1jNNHFZmRGXZFHlil5uhei,62,Drunk on Your Love,Brett Eldredge,0qSX3s5pJnAlSsgsCne8Cz,0,0.443,0.831,11,-5.606,1,0.0616,0.414,0.0,0.204,0.588,182.064,173960,4,69,adult standards,country
+7B6m8tHAYZsOKOKMU5SR2n,64,Take A Back Road,Rodney Atkins,2qgvmDsc4jrqbAbjq1HGM2,0,0.581,0.856,3,-4.0,1,0.0783,0.183,0.0,0.0871,0.918,169.90200000000004,209427,4,69,contemporary country,country
+3Qe097eJNp9MfpT2PieEw0,59,Don't Ya,Brett Eldredge,0qSX3s5pJnAlSsgsCne8Cz,0,0.537,0.693,9,-5.256,1,0.0847,0.0566,0.0,0.146,0.581,176.00400000000005,181210,4,69,adult standards,country
+2yWtLaPCOUDyi7f1lOXCn5,56,Anywhere With You,Jake Owen,1n2pb9Tsfe4SwAjmUac6YT,0,0.475,0.936,5,-2.545,1,0.0413,0.0418,0.0,0.0873,0.598,151.988,209587,4,72,contemporary country,country
+0ADmzFBX4aO3kFymfXpZeE,67,Ruin That For Me,Avenue Beat,1htYtUdXVMwR6HCSs821Lc,0,0.695,0.718,6,-3.492,1,0.0271,0.28,0.0,0.0871,0.895,114.963,163053,4,57,country pop,country
+0Kt2cOpCmKN2D9mG8Fw2ce,68,Other Girl,Filmore,0FvJm0y2eHw0aPkLLU3sIG,0,0.428,0.664,0,-5.8420000000000005,1,0.039,0.28,0.0,0.174,0.623,166.222,195646,4,65,contemporary country,country
+2usxQITOSDqvkYiI0oIwao,79,You should be sad,Halsey,26VFTg2z8YR0cCuwLzESi2,0,0.591,0.585,2,-6.35,1,0.0277,0.14300000000000002,0.0,0.109,0.324,110.94,205473,4,94,dance pop,country
+4hPpVbbakQNv8YTHYaOJP4,83,One Thing Right,Marshmello,64KEffDW9EtZ1y2vBYgq8T,1,0.659,0.623,4,-2.253,1,0.0451,0.0667,0.0,0.5820000000000001,0.439,88.042,181824,4,89,brostep,country
+1yTTMcUhL7rtz08Dsgb7Qb,76,The Bones - with Hozier,Maren Morris,6WY7D3jk8zTrHtmkqqo5GI,1,0.561,0.597,11,-6.0,0,0.0405,0.28600000000000003,0.0,0.0979,0.355,76.82600000000002,197299,4,81,contemporary country,country
+0BCy325UZyR9z0t0uxwn2N,68,H.O.L.Y.,Florida Georgia Line,3b8QkneNDz4JHKKKlLgYZg,0,0.523,0.6659999999999999,7,-4.081,0,0.0327,0.401,0.0,0.0728,0.564,78.077,194187,4,84,contemporary country,country
+7I5fYc4qKJddht8Ozhqqdx,63,Snapback,Old Dominion,6y8XlgIV8BLlIg1tT1R10i,0,0.687,0.7929999999999999,5,-3.577,1,0.0333,0.305,3.23e-06,0.1,0.6729999999999999,100.991,206507,4,77,contemporary country,country
+4o8STNAL91xc7EvuvqSKk1,62,Whatever It Is,Zac Brown Band,6yJCxee7QumYr820xdIsjo,0,0.6859999999999999,0.5760000000000001,1,-6.6320000000000014,1,0.0284,0.443,1.7e-05,0.212,0.72,83.971,208213,4,77,contemporary country,country
+0xwPzLmBAYro8BUz7MrtAo,67,Make You Miss Me,Sam Hunt,2kucQ9jQwuD8jWdtR9Ef38,0,0.614,0.472,7,-6.626,1,0.0297,0.158,0.0,0.111,0.168,146.005,225693,4,78,contemporary country,country
+2LwvqL50LKRpWSUqJ3bdTf,50,Right Here Right Now,Ryan Griffin,7dMEBGtGI6O7PoTEucAaBT,0,0.602,0.794,2,-4.756,1,0.0513,0.0145,0.0,0.13,0.403,100.05,195530,4,47,contemporary country,country
+277YJPrwcN4a1W3xaP06T0,61,Bachelorettes on Broadway,Willie Jones,5OCZWZ399lBKgxBxE8cjRM,0,0.643,0.84,9,-3.057,1,0.0965,0.0158,0.0,0.154,0.8059999999999999,99.988,208405,4,55,contemporary country,country
+4uNV7GyGEBZzPDdetEEvhS,74,Heartless (with Julia Michaels & Morgan Wallen),Diplo,5fMUXHkw8R8eOP2RNVYEZX,1,0.647,0.5529999999999999,11,-6.35,1,0.0421,0.215,0.0,0.0728,0.272,110.949,172973,4,89,bmore,country
+7A6UIxi15awyiEbYbMF06V,65,Fight (feat. Florida Georgia Line),Tayla Parx,1LzWWI9v4UKdbBgz8fqi15,1,0.495,0.585,7,-6.0710000000000015,1,0.039,0.139,0.0,0.257,0.57,182.883,197128,3,58,alternative r&b,country
+7DnNU5rQLgy4KEYvFMrGgW,63,This is Us,Jimmie Allen,147nKr9upHZSSxqCzh9j7c,1,0.5489999999999999,0.883,9,-4.092,1,0.0344,0.14800000000000002,0.0,0.0609,0.487,145.06,205827,4,67,contemporary country,country
+5GQSXvOHP28X4Ee5Zt3XYh,62,club,Kelsea Ballerini,3RqBeV12Tt7A8xH3zBDDUF,0,0.498,0.7170000000000001,7,-6.83,1,0.0392,0.0259,0.0,0.0568,0.551,168.132,181100,4,78,contemporary country,country
+1SVqPKwkGssw1ao0Jqmx2b,7,Someone I Used To Know,Zac Brown Band,6yJCxee7QumYr820xdIsjo,0,0.621,0.746,6,-5.69,0,0.03,0.000927,0.00108,0.102,0.334,107.953,209264,4,77,contemporary country,country
+7vejWqYK7NFsxbxQsAjTrC,70,Better Luck Next Time,Kelsea Ballerini,3RqBeV12Tt7A8xH3zBDDUF,0,0.373,0.477,8,-6.391,1,0.0819,0.226,0.0,0.0879,0.531,198.522,172371,4,78,contemporary country,country
+69RZJGfxX65CyLcVQ7xQVT,58,London,Filmore,0FvJm0y2eHw0aPkLLU3sIG,0,0.642,0.467,11,-8.37,1,0.033,0.38,0.0,0.0987,0.324,119.864,163856,4,65,contemporary country,country
+7AK5vh1cRnO3YxAjOjL4Yy,60,Look At You,Seth Ennis,2dEZtPJFspWetycGtouit2,0,0.687,0.625,1,-6.942,0,0.0284,0.042,0.0,0.151,0.866,104.027,195418,4,58,contemporary country,country
+7g9YrTuImvIkpS9uveKdCO,21,The Bones,Maren Morris,6WY7D3jk8zTrHtmkqqo5GI,0,0.612,0.57,11,-6.642,0,0.0347,0.279,0.0,0.0963,0.335,77.00399999999998,197293,4,81,contemporary country,country
+5ZManJDV3CexO66nRCkdiV,65,Break Up with Him,Old Dominion,6y8XlgIV8BLlIg1tT1R10i,0,0.615,0.632,3,-5.3820000000000014,1,0.0374,0.0685,0.0,0.108,0.56,152.035,207733,4,77,contemporary country,country
+6qoH2pKeEibNUG1pnJIjmZ,58,Move,Luke Bryan,0BvkDsjIUla7X0k6CSWh1I,0,0.57,0.939,5,-0.716,0,0.0789,0.00719,1.08e-06,0.0462,0.8009999999999999,103.983,227413,4,81,contemporary country,country
+72f7jNxopSGvbx3M35i3Zl,60,"John Cougar, John Deere, John 3:16",Keith Urban,0u2FHSq3ln94y5Q57xazwf,0,0.6940000000000001,0.779,0,-6.984,1,0.071,0.0688,3.99e-06,0.0803,0.594,84.975,221600,4,76,australian country,country
+1zWZvrk13cL8Sl3VLeG57F,64,T-Shirt,Thomas Rhett,6x2LnllRG5uGarZMsD4iO8,0,0.634,0.862,2,-5.3370000000000015,1,0.0376,0.0287,0.0,0.0217,0.767,95.989,227693,4,80,contemporary country,country
+5BIwPoVMFnFIr8RzJunRvf,3,Wasted Time,Keith Urban,0u2FHSq3ln94y5Q57xazwf,0,0.622,0.8270000000000001,7,-5.7360000000000015,1,0.0478,0.0717,0.0,0.0764,0.299,100.002,233813,4,76,australian country,country
+1soxUgYIZb1qx1c7o1Lc7z,67,Drunk On A Plane,Dierks Bentley,7x8nK0m0cP2ksQf0mjWdPS,0,0.423,0.73,9,-5.566,1,0.032,0.00495,1.13e-05,0.238,0.66,205.972,254467,4,74,contemporary country,country
+2KKijf6Ett4kmVNJze2roh,78,The Git Up,Blanco Brown,3yzRiNMZdTsSUgplcyYZ4i,0,0.847,0.6779999999999999,9,-8.635,1,0.109,0.0669,0.0,0.274,0.8109999999999999,97.984,200594,4,71,country rap,country
+4dGJf1SER1T6ooX46vwzRB,75,Chicken Fried,Zac Brown Band,6yJCxee7QumYr820xdIsjo,0,0.5660000000000001,0.713,6,-4.25,1,0.0417,0.645,0.0,0.114,0.807,169.864,238147,4,77,contemporary country,country
+09IStsImFySgyp0pIQdqAc,82,The Middle,Zedd,2qxJFvFYMEDqd7ui6kSAcq,1,0.753,0.657,7,-3.0610000000000004,1,0.0449,0.171,0.0,0.112,0.4370000000000001,107.01,184732,4,85,complextro,country
+5HGibWoxnkYSkl6mHmAlOE,68,That's My Kind Of Night,Luke Bryan,0BvkDsjIUla7X0k6CSWh1I,0,0.6609999999999999,0.7509999999999999,7,-2.909,1,0.0481,0.0571,0.0,0.105,0.875,109.995,190187,4,81,contemporary country,country
+1kneRrMfS08JwuqKwnX4fl,3,I Love This Life,LOCASH,5IcGbIAgdns0R5EJKHMjCQ,0,0.5920000000000001,0.917,2,-3.057,1,0.0541,0.0164,1.23e-06,0.14400000000000002,0.5720000000000001,112.03,208867,4,60,contemporary country,country
+6u7jPi22kF8CTQ3rb9DHE7,32,Old Town Road (feat. Billy Ray Cyrus) - Remix,Lil Nas X,7jVv8c5Fj3E9VhNjxT4snq,1,0.878,0.619,6,-5.56,1,0.102,0.0533,0.0,0.113,0.639,136.041,157067,4,86,country rap,country
+0ABHhxQTaluB94ohp2RLSr,52,Feelin’ It,Scotty McCreery,6ZV6lGY0prbqpTD0Md8i29,0,0.586,0.759,7,-5.337999999999999,1,0.0457,0.1,0.0,0.084,0.687,184.031,198227,4,67,contemporary country,country
+4O1CExxinEpKZi3861NlTK,60,Get Me Some Of That,Thomas Rhett,6x2LnllRG5uGarZMsD4iO8,0,0.5489999999999999,0.866,6,-5.306,1,0.0476,0.0733,0.0,0.25,0.767,87.964,187400,4,80,contemporary country,country
+0dwudL6pM7zLO7MSUxMUYd,48,Lose My Mind,Brett Eldredge,0qSX3s5pJnAlSsgsCne8Cz,0,0.68,0.755,6,-5.509,0,0.029,0.0206,0.0,0.21,0.8240000000000001,101.048,155440,4,69,adult standards,country
+0cV4xwUA4ue2deqq4CZFko,65,I Don't Want This Night To End,Luke Bryan,0BvkDsjIUla7X0k6CSWh1I,0,0.616,0.728,9,-4.02,0,0.0278,0.0275,0.0,0.228,0.375,111.934,219973,4,81,contemporary country,country
+3b7CDTKB0SRTmQ6ytYi5vZ,64,Drunk On You,Luke Bryan,0BvkDsjIUla7X0k6CSWh1I,0,0.5579999999999999,0.872,9,-4.401,1,0.0449,0.17800000000000002,0.0,0.173,0.472,143.971,213547,4,81,contemporary country,country
+6enPOmd3vSFpI4jjms8kXN,65,Runnin' Outta Moonlight,Randy Houser,56x8mYvS3cyDGAi8N2FxbB,0,0.526,0.8009999999999999,2,-3.717,1,0.0393,0.0354,3.17e-06,0.0637,0.769,172.024,193773,4,66,contemporary country,country
+0Utg7sirTPqrs6Cx0FbriQ,61,Chillin' It,Cole Swindell,1mfDfLsMxYcOOZkzBxvSVW,0,0.5760000000000001,0.8490000000000001,9,-3.057,1,0.0386,0.511,3.89e-05,0.109,0.6659999999999999,137.982,196747,4,71,contemporary country,country
+2Fk0WwAqTBesLtKg97nojy,63,Crash and Burn,Thomas Rhett,6x2LnllRG5uGarZMsD4iO8,0,0.69,0.7809999999999999,5,-5.101,0,0.0305,0.0873,2.28e-06,0.16399999999999998,0.841,130.02,190733,4,80,contemporary country,country
+3wx2kQWPn9p5UppQbNhPAk,65,Leave The Night On,Sam Hunt,2kucQ9jQwuD8jWdtR9Ef38,0,0.514,0.951,9,-3.813,1,0.0603,0.0951,0.0,0.349,0.838,171.96,192160,4,78,contemporary country,country
+5gnV9rhNQlb6nqFiwQgKVf,3,Homegrown,Zac Brown Band,6yJCxee7QumYr820xdIsjo,0,0.72,0.8490000000000001,6,-2.246,1,0.0316,0.0279,0.000169,0.0971,0.956,105.012,205720,4,77,contemporary country,country
+1yEwEiTpsaPhQi9lb5EVV4,68,Knee Deep (feat. Jimmy Buffett),Zac Brown Band,6yJCxee7QumYr820xdIsjo,1,0.715,0.584,8,-8.231,1,0.0296,0.4320000000000001,1.41e-06,0.095,0.61,90.987,203173,4,77,contemporary country,country
+3y1t2sEahs8idFz2tiYNPO,58,Let Me See Ya Girl,Cole Swindell,1mfDfLsMxYcOOZkzBxvSVW,0,0.523,0.8340000000000001,6,-3.5610000000000004,1,0.0281,0.254,0.0,0.393,0.445,92.99,187587,4,71,contemporary country,country
+4zvPCWecz75XpskOJWZclV,33,Dirty,Last Chance Band,2rE1xpcoAYll4oyJVuLqMC,0,0.598,0.7390000000000001,8,-6.3610000000000015,0,0.0413,0.024,0.0,0.189,0.484,76.995,203162,4,23,,country
+4DyKZmONpoggnn3piyjad2,50,Kiss A Girl,Keith Urban,0u2FHSq3ln94y5Q57xazwf,0,0.653,0.7859999999999999,2,-5.417999999999998,1,0.0338,0.0103,2.19e-06,0.201,0.477,120.992,226733,4,76,australian country,country
+72h0DNOOO4HLaZHOW6cW7t,48,Animal,THE TRASH MERMAIDS,0CyLGfvrUZbmq9ALsRKN7R,0,0.184,0.81,9,-4.477,1,0.0675,0.00127,0.000197,0.128,0.0863,165.476,179347,4,44,,country
+0uMur9BAwuzsShojxBi6ag,46,Radio,Darius Rucker,7FY5V3XMwlNBPitEjXowHQ,0,0.72,0.848,0,-6.834,1,0.0589,0.123,0.0,0.0728,0.965,92.999,189053,4,71,contemporary country,country
+3nC688MXGnFDAcL3lU1Ray,51,Crazy Beautiful Sexy,Old Dominion,6y8XlgIV8BLlIg1tT1R10i,0,0.73,0.826,8,-4.33,1,0.0371,0.328,1.86e-06,0.0725,0.871,96.974,188160,4,77,contemporary country,country
+1z7oCbVGXNqTkWpW6rWezI,35,Prince Charming,Emily Miller,49WEgBaEitTs2tkuMlo2Ph,0,0.409,0.535,0,-6.886,1,0.0284,0.116,0.132,0.117,0.0624,143.786,307161,4,27,,country
+6yIMatK8OCXC3GuIlwHxuM,54,Jump Right In,Zac Brown Band,6yJCxee7QumYr820xdIsjo,0,0.6970000000000001,0.82,1,-5.1080000000000005,1,0.0575,0.0888,0.0,0.14300000000000002,0.655,104.022,180813,4,77,contemporary country,country
+27rSEMh30XdxOgQX7AKSaM,51,Summer Nights,Rascal Flatts,0a1gHP0HAqALbEyxaD5Ngn,0,0.541,0.895,2,-4.884,1,0.0367,0.0163,0.0,0.5710000000000001,0.657,102.078,242027,4,76,contemporary country,country
+4CGp8AGmhrkMcUQOBVWuiI,36,What Was I Thinkin',Dierks Bentley,7x8nK0m0cP2ksQf0mjWdPS,0,0.5579999999999999,0.8540000000000001,5,-5.276,0,0.0445,0.131,7.09e-06,0.109,0.943,164.872,261600,4,74,contemporary country,country
+539dFCMA8lfEElDPgGpcIB,57,All My Friends Say,Luke Bryan,0BvkDsjIUla7X0k6CSWh1I,0,0.6829999999999999,0.9,9,-4.422,1,0.0333,0.0439,0.0,0.177,0.962,117.036,242800,4,81,contemporary country,country
+18BajNiyvH6GpYshB0unrm,66,Should've Been A Cowboy,Toby Keith,2bA6fzP0lMAQ4kz6CF61w8,0,0.585,0.7929999999999999,7,-3.713,1,0.0322,0.35100000000000003,0.0,0.3,0.732,133.839,208413,4,73,contemporary country,country
+7ziaozXYNG8QMlhuiphxth,49,Dragons (feat. The Lone Bellow),Drew Holcomb & The Neighbors,4RwbDag6jWIYJnEGH6Wte9,1,0.716,0.509,7,-7.7360000000000015,1,0.0319,0.65,7.68e-06,0.109,0.34600000000000003,120.126,210267,3,60,acoustic pop,country
+3ZHjQSfJ46zjFbt79MAqD2,45,One Of Those Nights,Tim McGraw,6roFdX1y5BYSbp60OTJWMd,0,0.525,0.7759999999999999,7,-5.598,1,0.0321,0.0114,0.0,0.117,0.413,127.046,236520,4,77,contemporary country,country
+0CKba2KBPP9TFbh5Nf8i4P,55,Fast Cars And Freedom,Rascal Flatts,0a1gHP0HAqALbEyxaD5Ngn,0,0.616,0.8240000000000001,3,-4.842,0,0.03,0.0135,2.13e-05,0.108,0.623,117.954,262187,4,76,contemporary country,country
+46ZfPS5VpSQVU5gb82hg3K,63,Anything Goes,Florida Georgia Line,3b8QkneNDz4JHKKKlLgYZg,0,0.458,0.976,0,-3.791,1,0.0459,0.00182,0.0,0.193,0.76,154.007,218867,4,84,contemporary country,country
+59iOzvbFUg6dab7qLYj0M3,51,Wild Ones,Kip Moore,2hJPr4lk7Q8SSvCVBl9fWM,0,0.735,0.561,10,-6.651,1,0.041,0.0279,2.54e-06,0.086,0.8029999999999999,76.01,201920,3,68,contemporary country,country
+4HFNGbVmsMV5lHUvDuXLkl,55,Parking Lot Party,Lee Brice,5Zq7R5qmi58ByYyBQTlNuk,0,0.54,0.86,1,-5.763,1,0.081,0.00646,0.0,0.629,0.856,171.72,207893,4,75,contemporary country,country
+7bNX2Fgb4MjPrYbkHaCNwV,57,Roll With It,Easton Corbin,070kGpqtESdDsLb3gdMIyx,0,0.7090000000000001,0.654,5,-7.752999999999999,1,0.0267,0.106,0.0,0.277,0.488,119.989,207587,4,62,contemporary country,country
+6XD3HMATLswheYevIfKkSi,60,All Over The Road,Easton Corbin,070kGpqtESdDsLb3gdMIyx,0,0.491,0.841,5,-3.579,1,0.0421,0.0471,0.0,0.0886,0.721,199.851,163067,4,62,contemporary country,country
+3yMVUGqVK5iTTkA8kGChH2,52,Crushin' It,Brad Paisley,13YmWQJFwgZrd4bf5IjMY4,0,0.595,0.823,2,-5.864,1,0.0483,0.0385,1.35e-06,0.0984,0.745,108.99,220147,4,72,contemporary country,country
+0El2Zyt68nYySFDG87hZgM,60,Sun Daze,Florida Georgia Line,3b8QkneNDz4JHKKKlLgYZg,0,0.476,0.952,4,-3.783,1,0.041,0.0981,2.91e-06,0.438,0.8490000000000001,170.062,184707,4,84,contemporary country,country
+3E0u4F2fGLhFE2vMAvntpa,0,Break up with Him,Old Dominion,6y8XlgIV8BLlIg1tT1R10i,0,0.618,0.61,8,-6.615,1,0.0346,0.0767,0.0,0.253,0.5589999999999999,152.016,201971,4,77,contemporary country,country
+4cOD9vO68gFGp9ZpYOwyUB,33,Romeo's Tune,Keith Urban,0u2FHSq3ln94y5Q57xazwf,0,0.439,0.8109999999999999,7,-6.152,1,0.0567,0.191,0.00101,0.25,0.787,190.949,227200,4,76,australian country,country
+0CWzFphELlYg85VrrPTnn6,1,You Look Like I Need A Drink,Justin Moore,30e8DmahrEamvLbFRPdWmk,0,0.616,0.831,11,-3.663,1,0.0285,0.00284,0.0,0.228,0.903,106.005,189253,4,69,arkansas country,country
+7aftSOGSOpSoIlVAQVBb71,68,Break Up In A Small Town,Sam Hunt,2kucQ9jQwuD8jWdtR9Ef38,0,0.579,0.7759999999999999,8,-5.365,1,0.173,0.0749,0.0,0.239,0.434,136.04399999999998,229880,4,78,contemporary country,country
+0JCjhCdqvVQ8am5x689TL0,5,Gonna Wanna Tonight,Chase Rice,6pBNfggcZZDCmb0p92OnGn,0,0.581,0.7829999999999999,2,-6.667000000000002,1,0.0405,0.0707,0.00014,0.0875,0.604,125.948,213736,4,73,contemporary country,country
+6IFPfV8PNSYOmufzQ95hmm,59,Confession,Florida Georgia Line,3b8QkneNDz4JHKKKlLgYZg,0,0.5489999999999999,0.878,1,-5.066,1,0.0358,0.106,6.07e-05,0.17600000000000002,0.44,104.98,190640,4,84,contemporary country,country
+0IGMI8uzDaLhRVkRjIDYZ7,2,Fix,Chris Lane,68abRTdO4meYReMWHvBYb0,0,0.532,0.8959999999999999,0,-1.954,0,0.0375,0.0914,0.0,0.18,0.696,100.011,189187,4,71,contemporary country,country
+7zNM46fo01dCBidY4yGNTZ,55,Keep Me in Mind,Zac Brown Band,6yJCxee7QumYr820xdIsjo,0,0.684,0.715,6,-6.1320000000000014,1,0.0336,0.159,0.0,0.181,0.563,96.018,214107,4,77,contemporary country,country
+0H9Q7Vzu8nYRDBZYKbtU8d,58,Sippin’ On Fire,Florida Georgia Line,3b8QkneNDz4JHKKKlLgYZg,0,0.476,0.92,10,-3.2230000000000003,1,0.0329,0.00485,1.15e-05,0.355,0.6940000000000001,142.952,193640,4,84,contemporary country,country
+7amkWxIK2pZFHd9Ao0UG0o,45,Cruise,Florida Georgia Line,3b8QkneNDz4JHKKKlLgYZg,0,0.474,0.945,10,-3.3680000000000003,1,0.0351,0.0208,0.0,0.0816,0.894,147.975,209493,4,84,contemporary country,country
+69XcvSymPaTke2Qb6f3W6P,62,Loving You Easy,Zac Brown Band,6yJCxee7QumYr820xdIsjo,0,0.723,0.596,1,-3.985,1,0.0277,0.0137,3.53e-06,0.0671,0.358,98.993,155653,4,77,contemporary country,country
+57SvK3tVLtYTk076o9qwAV,1,Already Callin' You Mine,Parmalee,4TshyQDihSYXSWqvclXl3I,0,0.595,0.889,1,-2.642,1,0.0352,0.0431,0.0,0.112,0.6920000000000001,120.066,184387,4,65,contemporary country,country
+15WoYaFanAymIZuebfxvOt,52,Homegrown Honey,Darius Rucker,7FY5V3XMwlNBPitEjXowHQ,0,0.657,0.911,1,-5.072,1,0.0496,0.122,0.0,0.0479,0.871,87.978,204893,4,71,contemporary country,country
+5dTTvqEs42JMJv98b4SaoE,48,Half Empty,Old Dominion,6y8XlgIV8BLlIg1tT1R10i,0,0.5770000000000001,0.7509999999999999,5,-4.822,1,0.0301,0.449,0.0,0.158,0.8290000000000001,84.04799999999999,170800,4,77,contemporary country,country
+74uXfGRDayyx7UIV1irrhK,52,Wrong Turns,Old Dominion,6y8XlgIV8BLlIg1tT1R10i,0,0.633,0.6829999999999999,1,-4.648,1,0.0277,0.0902,0.0,0.124,0.5720000000000001,131.046,208480,4,77,contemporary country,country
+5eUDWbVY8d4h4GK7zmTfXZ,48,Said Nobody,Old Dominion,6y8XlgIV8BLlIg1tT1R10i,0,0.6559999999999999,0.81,7,-4.178,1,0.0298,0.25,0.0,0.321,0.7959999999999999,86.991,184333,4,77,contemporary country,country
+1mffZcVGwEqf9Xbdww0kCD,50,Beer Can in a Truck Bed,Old Dominion,6y8XlgIV8BLlIg1tT1R10i,0,0.66,0.875,1,-5.792000000000002,0,0.0488,0.034,0.0,0.233,0.767,92.003,201467,4,77,contemporary country,country
+6CCV2biTOmU2wRBTJzapxX,47,Til It's Over,Old Dominion,6y8XlgIV8BLlIg1tT1R10i,0,0.634,0.805,4,-5.152,1,0.0344,0.322,3.71e-05,0.112,0.804,92.543,207107,4,77,contemporary country,country
+6zDaopn1sO8WUDTNdV8EdT,2,Somewhere On A Beach,Dierks Bentley,7x8nK0m0cP2ksQf0mjWdPS,0,0.57,0.642,7,-6.396,1,0.0277,0.000699,0.0,0.0801,0.457,144.019,199893,4,74,contemporary country,country
+3zpK0cCbrqH9DEnJUGPEMR,0,"Huntin', Fishin' And Lovin' Every Day",Luke Bryan,0BvkDsjIUla7X0k6CSWh1I,0,0.539,0.828,0,-4.302,1,0.0378,0.129,1.0800000000000003e-05,0.12,0.378,76.955,278640,4,81,contemporary country,country
+5Y9IXuzLK75DkVa8ZWKTne,0,Loving You Easy,Zac Brown Band,6yJCxee7QumYr820xdIsjo,0,0.7120000000000001,0.579,1,-3.897,1,0.0268,0.0126,0.0,0.0672,0.374,98.994,155653,4,77,contemporary country,country
+1N0j6Gw5lmfI7kipAgYcma,2,Mind Reader,Dustin Lynch,1dID9zgn0OV0Y8ud7Mh2tS,0,0.394,0.8,4,-4.17,0,0.0413,0.0266,0.0,0.184,0.525,162.053,185413,4,74,contemporary country,country
+7xvBjSznydntipiNDKOh32,48,Remedy,Zac Brown Band,6yJCxee7QumYr820xdIsjo,0,0.607,0.74,3,-5.309,1,0.0418,0.0812,0.0,0.117,0.274,92.964,231267,4,77,contemporary country,country
+2QQoeCWukPy6lGVm4288jF,0,Day Drinking,Little Big Town,3CygdxquGHurS7f9LjNLkv,0,0.58,0.932,9,-3.618,1,0.0524,0.174,0.0,0.856,0.913,163.857,181867,4,71,contemporary country,country
+3ts6xK5GzfMAAriT9AIBmP,68,Barefoot Blue Jean Night,Jake Owen,1n2pb9Tsfe4SwAjmUac6YT,0,0.6,0.8079999999999999,4,-4.6789999999999985,1,0.0403,0.208,0.0,0.196,0.809,172.016,167427,4,72,contemporary country,country
+0BlUM9pJ1lv8XmOMs8YU9h,22,Dance With Ya,Drew Baldridge,08qaG5crPMPF7i0h2wORk5,0,0.698,0.8220000000000001,1,-3.355,1,0.0359,0.0343,0.0,0.0678,0.775,116.033,214133,4,44,contemporary country,country
+3eGH1kOyOjq19khdfYg5R7,2,American Country Love Song,Jake Owen,1n2pb9Tsfe4SwAjmUac6YT,0,0.539,0.892,8,-4.59,1,0.0411,0.0725,0.0,0.0997,0.34,104.009,200640,4,72,contemporary country,country
+3tBSdTfZuCzgA2PfQrqKpk,1,Noise,Kenny Chesney,3grHWM9bx2E9vwJCdlRv9O,0,0.574,0.8029999999999999,0,-4.064,1,0.0279,0.0081,0.0,0.0789,0.5589999999999999,109.967,206533,4,77,contemporary country,country
+77G7zCNmNO16zyvEvN2LNl,28,Red Camaro,Keith Urban,0u2FHSq3ln94y5Q57xazwf,0,0.794,0.805,0,-4.828,1,0.032,0.0549,5.1e-06,0.0223,0.958,105.015,239280,4,76,australian country,country
+6aNwDe5YH5YUPlpHkku52w,64,Sunshine & Whiskey,Frankie Ballard,0dvKgSdNB2U1gfp6ZcekYi,0,0.67,0.737,9,-6.794,1,0.0434,0.223,0.0,0.325,0.754,92.983,182400,4,60,contemporary country,country
+4iLPK8QnOvqm0Azbsk2GDn,60,Don't It,Billy Currington,1By9QBFnjZAoI83BZppHlt,0,0.5710000000000001,0.826,1,-4.475,1,0.0362,0.0446,0.0,0.343,0.713,90.966,189000,4,71,contemporary country,country
+0OlS52TmtK2gPaEtdmr7DN,65,No Such Thing as a Broken Heart,Old Dominion,6y8XlgIV8BLlIg1tT1R10i,0,0.65,0.782,8,-4.295,1,0.0721,0.295,0.0,0.107,0.944,171.988,176893,4,77,contemporary country,country
+3BuPop8SzLG2Q88TJcFAjp,55,Raised On It,Sam Hunt,2kucQ9jQwuD8jWdtR9Ef38,0,0.59,0.94,9,-4.124,1,0.0409,0.0477,0.0,0.379,0.732,94.02,235507,4,78,contemporary country,country
+5y2pNuAvWcPKiORZ12e44S,58,Night's On Fire,David Nail,4DZGvSv2oMkBUnPz67E6z6,0,0.54,0.7759999999999999,4,-4.155,1,0.043,0.243,0.0,0.378,0.784,164.046,189733,4,59,contemporary country,country
+66rVt7PbwyKlu6CK6rxyAi,59,Friday Night,Eric Paslay,4TONBKcqVR1LmPdfJxvkMU,0,0.657,0.841,9,-4.188,1,0.0452,0.16,0.0,0.177,0.722,120.009,167213,4,56,contemporary country,country
+6s9ICeczYOfbHHIaSMq9jd,60,Get Your Shine On,Florida Georgia Line,3b8QkneNDz4JHKKKlLgYZg,0,0.4970000000000001,0.927,0,-4.52,1,0.0371,0.00286,1.26e-06,0.413,0.607,96.991,222013,4,84,contemporary country,country
+6pyshZbArprWRBXLbYVPO9,56,I Know Somebody,LOCASH,5IcGbIAgdns0R5EJKHMjCQ,0,0.505,0.903,1,-3.699,1,0.037000000000000005,0.0356,0.0,0.127,0.491,88.986,197830,4,60,contemporary country,country
+69DR48pXzSabFUfQfDDJDb,59,Make Me Wanna,Thomas Rhett,6x2LnllRG5uGarZMsD4iO8,0,0.545,0.818,9,-6.38,1,0.0541,0.0369,0.0,0.101,0.679,109.019,225067,3,80,contemporary country,country
+5EYWGM3Ns3iYew8ws0FatB,61,This Kiss,Faith Hill,25NQNriVT2YbSW80ILRWJa,0,0.398,0.804,11,-5.559,1,0.0451,0.175,0.0,0.181,0.7090000000000001,186.752,194307,4,69,contemporary country,country
+4OjFxBFALDl3V7kjx3mLbY,54,Buy and Buy,Ross Ellis,3aUXK61VCf5255a0LqhuPQ,0,0.662,0.588,11,-5.988,1,0.028,0.158,0.0,0.116,0.28,113.998,225199,4,49,country pop,country
+694vvR5o19xHPhhJ5QdLN7,72,NO HALO,BROCKHAMPTON,1Bl6wpkWCQ4KVgnASpvzzA,0,0.643,0.573,4,-7.034,1,0.0709,0.41,0.00017,0.0695,0.47,165.192,259747,4,86,boy band,alternative
+3ClBKQkKoaUQ6UOhe2xlJK,83,Good News,Mac Miller,4LLpKhyESsyAXpc4laK94U,0,0.794,0.32,1,-12.92,0,0.173,0.853,0.134,0.112,0.241,174.088,342040,4,92,hip hop,alternative
+3RDgzyHD6uMNdCVnQIkD32,60,Under The Moon,070 Shake,12Zk1DFhCbHY6v3xep2ZjI,0,0.7609999999999999,0.611,1,-6.231,0,0.039,0.0324,0.0004150000000000001,0.521,0.206,95.102,207227,4,70,alternative r&b,alternative
+6U0FIYXCQ3TGrk4tFpLrEA,90,SUGAR,BROCKHAMPTON,1Bl6wpkWCQ4KVgnASpvzzA,0,0.453,0.5379999999999999,1,-8.212,1,0.0638,0.449,0.0,0.19,0.516,122.973,204533,4,86,boy band,alternative
+0w9aWiDqZPCOCOtRTLkTPd,58,Palmolive (feat. Pusha T & Killer Mike),Freddie Gibbs,0Y4inQK6OespitzD6ijMwb,1,0.33,0.603,0,-7.5710000000000015,1,0.36,0.601,0.00063,0.307,0.812,168.456,245333,3,70,alternative hip hop,alternative
+3wXw9CsZsxca37dbzHUx4g,54,Rollin' Stone,Kyle Lux,63g7H7tihdsX4LtRQioKrR,0,0.665,0.57,9,-6.896,0,0.0341,0.066,2.98e-06,0.0822,0.396,95.983,194864,4,47,indie r&b,alternative
+50aTwBKhPD3D3BW04UtjmA,65,Guilty Conscience,070 Shake,12Zk1DFhCbHY6v3xep2ZjI,0,0.5479999999999999,0.655,7,-6.05,1,0.11,0.00478,0.0,0.125,0.183,179.884,213360,4,70,alternative r&b,alternative
+38KnGApPKzMi920Grouoij,38,Snake,Halflives,4er5NZNuc83Cev96LA28ID,0,0.423,0.552,8,-6.062,1,0.0757,0.123,0.000474,0.075,0.219,176.062,226446,4,44,pixie,alternative
+23oxJmDc1V9uLUSmN2LIvx,71,Ocean Avenue,Yellowcard,3zxKH0qp3nBCuPZCZT5Vaf,0,0.486,0.904,6,-3.751,0,0.0638,3.43e-05,2.8300000000000007e-05,0.0947,0.7859999999999999,173.734,198267,4,68,bow pop,alternative
+5lDriBxJd22IhOH9zTcFrV,68,Dirty Little Secret,The All-American Rejects,3vAaWhdBR38Q02ohXqaNHT,0,0.465,0.954,10,-4.251,1,0.044,0.000346,5.38e-06,0.573,0.458,143.85,193653,4,73,modern rock,alternative
+2TfSHkHiFO4gRztVIkggkE,76,"Sugar, We're Goin Down",Fall Out Boy,4UXqAaa6dQYAk18Lv7PEgX,0,0.494,0.841,7,-4.784,1,0.0838,0.00579,0.0,0.122,0.5670000000000001,162.013,229093,4,85,emo,alternative
+3asFGFY3uLjMDmML1p0tYm,69,Savior,Rise Against,6Wr3hh341P84m3EI8qdn9O,0,0.339,0.931,5,-3.425,0,0.062,0.0015,0.00014199999999999998,0.425,0.467,112.548,242280,4,77,chicago hardcore,alternative
+6L89mwZXSOwYl76YXfX13s,78,Basket Case,Green Day,7oPftvlwr6VrsViSDV7fJY,0,0.442,0.943,3,-3.205,1,0.0602,0.00293,8.71e-06,0.091,0.7809999999999999,85.064,181533,4,86,modern rock,alternative
+5fVZC9GiM4e8vu99W0Xf6J,79,How to Save a Life,The Fray,0zOcE3mg9nS6l3yxt1Y0bK,0,0.64,0.743,10,-4.08,1,0.0379,0.269,0.0,0.101,0.361,122.035,262533,4,75,modern rock,alternative
+4UuHWIkAWnN176A2rx7YFB,58,1985,Bowling For Soup,5ND0mGcL9SKSjWIjPd0xIb,0,0.607,0.878,4,-4.422,1,0.0665,0.000246,0.0,0.337,0.853,119.955,193000,4,68,comic,alternative
+27L8sESb3KR79asDUBu8nW,72,Stacy's Mom,Fountains Of Wayne,1pgtr4nhBQjp9oCUBPyYWh,0,0.774,0.75,11,-4.927,0,0.0413,0.0021,1.85e-05,0.0808,0.925,118.015,197987,4,63,alternative rock,alternative
+11bD1JtSjlIgKgZG2134DZ,77,Chasing Cars,Snow Patrol,3rIZMv9rysU7JkLzEaC5Jp,0,0.563,0.5920000000000001,9,-4.5710000000000015,1,0.0276,0.209,5.08e-05,0.132,0.136,104.016,267933,4,75,irish rock,alternative
+4wzjNqjKAKDU82e8uMhzmr,73,Face Down,The Red Jumpsuit Apparatus,1SImpQO0GbjRgvlwCcCtFo,0,0.545,0.932,7,-2.189,0,0.0399,0.000665,0.0,0.127,0.465,92.956,192000,4,68,emo,alternative
+4c7xQ7OsqL6W4RwEQmID7g,54,"This Ain't A Scene, It's An Arms Race",Fall Out Boy,4UXqAaa6dQYAk18Lv7PEgX,0,0.435,0.887,9,-4.07,1,0.0636,0.0007469999999999999,0.0,0.0327,0.408,199.935,212040,4,85,emo,alternative
+3ZsexY07D4t4HRq7ogeSAS,63,"Dear Maria, Count Me In",All Time Low,46gyXjRIvN1NL1eCB8GBxo,0,0.465,0.8959999999999999,2,-3.1260000000000003,1,0.0795,0.00725,0.0,0.206,0.569,181.014,182827,4,75,modern rock,alternative
+5EYi2rH4LYs6M21ZLOyQTx,78,Loving Is Easy,Rex Orange County,7pbDxGE6nQSZVfiFdq9lOL,1,0.7559999999999999,0.609,3,-7.927,1,0.0544,0.217,0.00474,0.096,0.537,117.023,155720,4,84,bedroom pop,alternative
+4bPQs0PHn4xbipzdPfn6du,73,I Write Sins Not Tragedies,Panic! At The Disco,20JZFwl6HVl6yg8a4H3ZqK,0,0.5670000000000001,0.795,9,-4.985,0,0.134,0.0938,0.0,0.114,0.635,170.06,187613,4,88,baroque pop,alternative
+0BRHnOFm6sjxN1i9LJrUDu,72,The Anthem,Good Charlotte,5aYyPjAsLj7UzANzdupwnS,0,0.494,0.939,1,-3.127,1,0.126,0.006659999999999999,0.0,0.139,0.893,177.75099999999995,175093,4,72,alternative metal,alternative
+1fJFuvU2ldmeAm5nFIHcPP,72,First Date,blink-182,6FBDaR13swtiWwGhX1WQsP,0,0.579,0.928,0,-4.3439999999999985,1,0.0411,0.000715,0.0,0.18,0.882,95.594,171533,4,83,pop punk,alternative
+1FMm3wG5WOhi7js35KR7Ea,10,"You're Gonna Go Far, Kid",The Offspring,5LfGQac0EIXyAN8aUwmNAQ,0,0.55,0.918,9,-3.159,0,0.0682,0.00466,0.0,0.206,0.563,126.083,177827,4,79,alternative metal,alternative
+4sQJXbtxwoKHG7PwMRJ0Ig,12,The Kids Aren't Alright,The Offspring,5LfGQac0EIXyAN8aUwmNAQ,0,0.52,0.945,1,-4.197,1,0.0335,0.00599,4.9700000000000015e-05,0.0495,0.807,99.603,179600,4,79,alternative metal,alternative
+0a7BloCiNzLDD9qSQHh5m7,73,"Dance, Dance",Fall Out Boy,4UXqAaa6dQYAk18Lv7PEgX,0,0.62,0.961,11,-3.198,0,0.154,0.005229999999999999,0.0,0.0854,0.449,114.448,180267,4,85,emo,alternative
+2g2a5kDeZexbUTD8abcvm6,68,Lifestyles of the Rich & Famous,Good Charlotte,5aYyPjAsLj7UzANzdupwnS,0,0.62,0.93,1,-3.685,1,0.0374,0.00043,0.0,0.0686,0.609,106.22,190173,4,72,alternative metal,alternative
+1iZTuY3wspO4DxFXBD58WX,4,Dammit,blink-182,6FBDaR13swtiWwGhX1WQsP,0,0.384,0.981,0,-4.209,1,0.0872,2.54e-05,1.9e-05,0.106,0.307,109.052,166267,4,83,pop punk,alternative
+6SpLc7EXZIPpy0sVko0aoU,70,Misery Business,Paramore,74XFHRwlV6OrjEM0A2NCMF,0,0.517,0.906,1,-3.677,1,0.0735,0.00272,9.26e-06,0.113,0.731,172.977,211520,4,81,candy pop,alternative
+1hIupFeRu3nmMcjbjxPnMc,7,I'm Just A Kid,Simple Plan,2p4FqHnazRucYQHyDCdBrJ,0,0.527,0.8340000000000001,1,-5.5310000000000015,1,0.0447,0.00107,0.000102,0.0993,0.422,110.065,198333,4,74,canadian pop punk,alternative
+3LbZIhU0smEU5SUnxod4j4,79,Breathe Deeper,Tame Impala,5INjqkS1o8h1imAzPqGZBb,0,0.664,0.848,11,-4.51,0,0.0322,0.0245,0.000127,0.172,0.502,104.998,372867,4,88,australian psych,alternative
+6JqYhSdTE4WbQrMXxPH5cD,52,Honeypie,JAWNY,25pd339V2rRJo84USlcSRP,0,0.742,0.6779999999999999,5,-4.605,0,0.192,0.0698,0.0,0.151,0.927,115.05,135521,4,63,bedroom pop,alternative
+4S4Mfvv03M1cHgIOJcbUCL,76,In My Room,Frank Ocean,2h93pZq0e7k5yf4dywlkpM,0,0.861,0.647,7,-7.425,1,0.0675,0.594,0.6609999999999999,0.114,0.67,158.037,133680,4,87,alternative r&b,alternative
+7zTTDkkLkJ2iHAqq1daDCr,64,OUTTA MY MIND,Monsune,6NgYKD0TKGjwtRFqTyyqKF,0,0.6890000000000001,0.463,2,-8.121,0,0.0365,0.066,0.000152,0.145,0.8640000000000001,86.99799999999998,226006,4,57,bedroom pop,alternative
+4TxuAw6GMHFPMv6NQeXm6l,54,Cool to You,Teenage Priest,4BzY7yI5iqNP7OmEtO0a34,0,0.623,0.642,1,-6.199,0,0.0308,0.0583,0.0148,0.28800000000000003,0.584,171.02700000000004,197888,4,44,,alternative
+1Bw35QKcWd4HKnx6EczowY,51,B4,Ginger Root,4UAW69682T7N0wrABUhqx0,0,0.797,0.726,7,-5.267,1,0.0804,0.476,0.483,0.0769,0.969,104.428,172329,4,46,,alternative
+6QTPacyXkZWG9FMwq6L1hJ,73,Love You For A Long Time,Maggie Rogers,4NZvixzsSefsNiIqXn0NDe,0,0.7070000000000001,0.67,9,-6.1370000000000005,1,0.0323,0.16399999999999998,0.00283,0.109,0.8220000000000001,112.993,223120,4,76,electropop,alternative
+0qQ9VcVPkWDTnff6HIhISU,63,Someone To Spend Time With,Los Retros,0qraFJK6boYSp4ZMMX4PzG,0,0.816,0.464,9,-13.297,1,0.034,0.0498,0.201,0.106,0.963,89.571,173954,4,56,,alternative
+61GiMDN1kUiEQK6zHGMdnx,56,Metamodernity,Vansire,6ft7JnxMyZhp7N52qzHymY,0,0.8220000000000001,0.544,5,-10.077,1,0.0358,0.389,0.165,0.108,0.826,121.968,162663,4,60,bedroom pop,alternative
+4PvbbMYL4fkToni5BLaYRb,70,Softly,Clairo,3l0CmX0FuQjFxr8SK7Vqag,0,0.759,0.436,0,-11.233,0,0.0419,0.33,0.0113,0.102,0.782,94.03,185307,4,81,bedroom pop,alternative
+5K7x78NAL50rhfhm73ePNb,61,Now I'm In It,HAIM,4Ui2kfOqGujY81UcPrb5KE,0,0.7170000000000001,0.708,4,-9.489,1,0.0627,0.37,0.000116,0.161,0.209,105.019,204280,4,71,dance pop,alternative
+3rCtueI7qBN2kZBZnXuk5K,63,Linked,Bonobo,0cmWgDlu9CwTgxPhf403hb,0,0.713,0.725,6,-9.951,1,0.0385,0.539,0.8859999999999999,0.111,0.24,122.041,369462,4,70,downtempo,alternative
+2YEnGQwfXZokCfRbTykYbo,8,Was It Something I Said,MyKey,191tnItkCke3YcHpUxDOD9,0,0.5870000000000001,0.7240000000000001,6,-6.776,1,0.0321,0.614,0.000166,0.155,0.8370000000000001,106.993,222353,4,53,bedroom pop,alternative
+5h68UTytwmTJDwoGbqLwzV,67,Never Had The Balls,Rex Orange County,7pbDxGE6nQSZVfiFdq9lOL,0,0.691,0.68,5,-7.808,1,0.0365,0.387,0.000276,0.0508,0.361,149.974,236893,4,84,bedroom pop,alternative
+5Ti99QiUdIwe0xG4gS22FL,15,Can I Call You Tonight?,Dayglow,6eJa3zG1QZLRB3xgRuyxbm,0,0.6409999999999999,0.8420000000000001,9,-7.27,1,0.0292,0.132,0.91,0.419,0.5,129.98,278769,4,71,austindie,alternative
+0aZfKmSAMSZweDTNKd9UPo,67,Some Kind Of Disaster,All Time Low,46gyXjRIvN1NL1eCB8GBxo,0,0.55,0.8370000000000001,11,-5.4110000000000005,1,0.044,0.0104,0.0,0.306,0.637,89.821,223994,4,75,modern rock,alternative
+28VxaqLBkdHe4wlJczoSDT,51,Tune You Out,Knuckle Puck,5ABfpj7Z00wfPiv2uW4MFm,0,0.314,0.952,3,-1.884,1,0.0796,4.4e-05,0.000488,0.0608,0.53,169.142,178605,3,57,alternative emo,alternative
+2Srbekd8waUUAr0gIMt5dg,63,Scumbag (feat. blink-182),Goody Grace,1iH2Yx2Ea0kZ0zKI3Nlk30,1,0.418,0.602,2,-6.56,1,0.0275,0.073,0.0,0.151,0.218,172.175,210363,4,65,pop rap,alternative
+3ernkvxpkWap60SeadSqGL,69,Cash Machine,Oliver Tree,6TLwD7HPWuiOzvXEa3oCNe,0,0.424,0.625,9,-6.863,1,0.0339,0.0188,9.55e-05,0.118,0.518,200.642,177625,4,76,alternative hip hop,alternative
+3Fm4KEBiLmj4e3x4Qqv7W0,32,Dear Future Self (Hands Up) [feat. Wyclef Jean],Fall Out Boy,4UXqAaa6dQYAk18Lv7PEgX,1,0.535,0.925,2,-3.014,1,0.235,0.00362,0.000261,0.0243,0.936,169.872,171173,4,85,emo,alternative
+4AQzk2yNWKs6sYhZi6NzVN,75,Me & You Together Song,The 1975,3mIj9lX2MWuHmhNCA7LSCW,0,0.272,0.763,9,-5.8610000000000015,1,0.0348,1.65e-06,0.00157,0.299,0.394,107.388,209501,4,84,indie pop,alternative
+6XbmIuDxm4gWpVYoGg5DQX,60,Where I Belong (feat. We The Kings),Simple Plan,2p4FqHnazRucYQHyDCdBrJ,1,0.477,0.964,8,-2.459,1,0.096,0.000295,0.0,0.0763,0.597,92.065,190027,4,74,canadian pop punk,alternative
+6muOWhMh7Tf0UFUtMDBhUR,76,Orphans,Coldplay,4gzpq5DPGxSnKTe4SA8HAU,0,0.503,0.8079999999999999,11,-5.051,0,0.045,0.0254,0.00162,0.557,0.28300000000000003,107.975,197533,4,91,permanent wave,alternative
+7hpJ9tATWb2vztlq99hERP,85,Maniac,Conan Gray,4Uc8Dsxct0oMqx0P6i60ea,0,0.623,0.647,8,-5.438,1,0.04,0.00122,0.0,0.354,0.522,107.987,185787,4,80,bedroom pop,alternative
+4xb8JHIN56xixSl6vkSPjm,59,Siren,Kailee Morgue,245PKF3hKjtxJKIG153kF0,0,0.603,0.512,10,-6.687,0,0.0402,0.454,0.00014,0.154,0.271,145.91,200267,4,58,electropop,alternative
+1Dr1fXbc2IxaK1Mu8P8Khz,74,When I Come Around,Green Day,7oPftvlwr6VrsViSDV7fJY,0,0.531,0.909,11,-4.2360000000000015,1,0.034,0.0175,0.0,0.231,0.8140000000000001,97.546,178000,4,86,modern rock,alternative
+0Ti2dlF2xLjXblvdU5fCxM,69,Miss Murder,AFI,19I4tYiChJoxEO5EuviXpz,0,0.308,0.873,8,-4.542,1,0.0533,0.00022,0.000729,0.0974,0.6859999999999999,143.519,206587,4,66,alternative metal,alternative
+1aYWQrIT8XPdtV4hhUjczN,5,"Cute Without the ""E"" (Cut From the Team)",Taking Back Sunday,24XtlMhEMNdi822vi0MhY1,0,0.402,0.8590000000000001,1,-4.41,0,0.0466,0.0394,0.0,0.0745,0.514,95.31,211547,4,66,emo,alternative
+33iv3wnGMrrDugd7GBso1z,69,My Own Worst Enemy,Lit,5mgr0FFpvy267wKVAYg8qp,0,0.494,0.946,4,-2.757,1,0.0637,0.00129,0.0,0.398,0.741,103.408,169027,4,61,alternative rock,alternative
+1sAma2aBDhdkDSKMZKYdeP,60,Valentine,COIN,0ZxZlO7oWCSYMXhehpyMvE,0,0.521,0.818,9,-7.131,1,0.043,0.00464,4.68e-05,0.131,0.606,160.002,193587,4,72,indie pop,alternative
+5B1qeFOEeUCMudPEVeasHp,47,Delete Forever,Grimes,053q0ukIDRgzwTr4vNSwab,0,0.56,0.736,8,-7.64,1,0.0339,0.0135,0.0973,0.174,0.389,94.988,237493,4,77,art pop,alternative
+52zzYSu7RUsSFn8cZlVjWp,58,She Plays Bass,beabadoobee,35l9BRT7MXmM8bv2WDQiyB,0,0.449,0.89,9,-3.823,0,0.0468,0.000147,0.0198,0.101,0.276,136.069,207106,4,77,bedroom pop,alternative
+7oJmIBxEAYjfkS7lhZ7M1S,63,Sometimes,Goth Babe,7o96HO2zrujyATtVsqGhh3,0,0.445,0.563,7,-8.904,1,0.0315,0.105,0.000271,0.179,0.204,94.978,262737,4,62,indie garage rock,alternative
+7eJMfftS33KTjuF7lTsMCx,85,death bed (feat. beabadoobee),Powfu,6bmlMHgSheBauioMgKv2tn,1,0.726,0.431,8,-8.765,0,0.135,0.731,0.0,0.696,0.348,144.026,173333,4,79,emo rap,pop
+364dI1bYnvamSnBJ8JcNzN,92,Intentions,Justin Bieber,1uNFoZAHBGtllmzznpCI3s,1,0.8109999999999999,0.5529999999999999,9,-6.644,1,0.0552,0.317,0.0,0.105,0.86,148.014,212869,4,99,canadian pop,pop
+6wJYhPfqk3KGhHRG76WzOh,88,Blueberry Faygo,Lil Mosey,5zctI4wO9XSKS8XwcnqEHk,0,0.774,0.5539999999999999,0,-7.909,1,0.0383,0.207,0.0,0.132,0.349,99.034,162547,4,86,melodic rap,pop
+0JjM9bKm4wrwohMslcm892,82,Still Be Friends (feat. Tory Lanez & Tyga),G-Eazy,02kJSzxNuaWGqwubyUba0Z,1,0.8029999999999999,0.759,7,-4.692,0,0.0494,0.00509,0.0,0.0921,0.284,104.0,213308,4,87,indie pop rap,pop
+4sSu9BtWSCWRNjGD2AvqbG,79,Psycho!,MASE,4HAfqyKr4Sqtab6ttHWXgE,0,0.868,0.365,7,-9.51,1,0.0383,0.433,0.0,0.207,0.471,114.979,197217,4,70,,pop
+4iiWcajF1fEUpwcUewc464,78,"Life Is Good (feat. Drake, DaBaby & Lil Baby) - Remix",Future,1RyvyyTE3xzB2ZywiAwp0i,1,0.81,0.5660000000000001,5,-8.33,1,0.433,0.107,0.0,0.122,0.5820000000000001,142.069,315346,4,94,atl hip hop,pop
+3Q6F8RByyhRTJpRtZLY3cg,86,WHATS POPPIN,Jack Harlow,2LIk90788K0zvyj2JJVwkJ,0,0.923,0.604,11,-6.671,0,0.245,0.017,0.0,0.272,0.826,145.062,139741,4,79,deep underground hip hop,pop
+2FvD20Z8aoWIePi7PoN8sG,87,TOES (feat. Lil Baby & Moneybagg Yo),DaBaby,4r63FhuTkUYltbVAg5TQnk,1,0.816,0.5820000000000001,8,-4.141,1,0.341,0.0794,5.84e-06,0.0916,0.542,160.004,136366,4,95,nc hip hop,pop
+733c1CWmIGymoQXdp7Us88,83,"Numbers (feat. Roddy Ricch, Gunna and London On Da Track)",A Boogie Wit da Hoodie,31W5EY0aAly4Qieq6OFu6I,1,0.8190000000000001,0.654,11,-6.665,0,0.136,0.517,0.0,0.0996,0.455,133.503,188563,4,94,melodic rap,pop
+4dZTZbmJBCCofAExHwefda,81,Lottery (Renegade),K CAMP,5bgfj5zUoWpyeVatGDjn6H,0,0.915,0.556,1,-8.601,1,0.21600000000000005,0.0145,0.000179,0.0733,0.67,148.964,170947,4,77,atl hip hop,pop
+75dLEqanQTupF3dtP9exT5,80,Yikes,Nicki Minaj,0hCNtLu0JehylgoiP8L4Gh,0,0.911,0.637,8,-8.381,1,0.447,0.0409,3.68e-05,0.238,0.66,149.996,156882,4,95,dance pop,pop
+5SON8GFVi5chitOTgM8QIe,70,Konclusions,YG,0A0FS04o6zMoto8OKPsDwY,1,0.6859999999999999,0.614,4,-7.897,0,0.36,0.103,0.0,0.0888,0.355,90.634,171158,4,86,cali rap,pop
+3ZCTVFBt2Brf31RLEnCkWJ,96,everything i wanted,Billie Eilish,6qqNVTkY8uBg9cP3Jd7DAH,0,0.7040000000000001,0.225,6,-14.454,0,0.0994,0.902,0.657,0.106,0.243,120.006,245426,4,99,electropop,pop
+696DnlkuDOXcMAnKlTgXXK,97,ROXANNE,Arizona Zervas,0vRvGUQVUjytro0xpb26bs,0,0.621,0.601,6,-5.6160000000000005,0,0.14800000000000002,0.0522,0.0,0.46,0.457,116.735,163636,5,89,pop rap,pop
+6u5M4jPpYkoRV4vVHDQvkd,67,All I Do Is Win,DJ Khaled,0QHgL1lAIqAw0HtD7YldmP,0,0.5489999999999999,0.7909999999999999,10,-3.535,1,0.133,0.0104,0.0,0.444,0.293,150.094,227293,4,81,dance pop,pop
+7FIWs0pqAYbP91WWM0vlTQ,95,Godzilla (feat. Juice WRLD),Eminem,7dGJo4pcD2V6oG8kP0tJRR,1,0.8079999999999999,0.745,10,-5.26,0,0.342,0.145,0.0,0.292,0.8290000000000001,165.995,210800,4,99,detroit hip hop,pop
+19y0AieXy9zCRS30x7j0Fs,45,Venice,Create the Culture,36BmoRXFhTeGPqk48Eb6AT,0,0.8009999999999999,0.73,6,-4.595,0,0.0769,0.0596,1.33e-06,0.104,0.55,102.007,189424,4,36,,pop
+07KXEDMj78x68D884wgVEm,90,High Fashion (feat. Mustard),Roddy Ricch,757aE44tKEUQEqRuT6GnEB,1,0.831,0.499,11,-8.442,0,0.114,0.269,0.0,0.3,0.511,97.956,220487,4,96,melodic rap,pop
+4GyMIm2BEMoOXjmIvSpfLi,78,King Of My City,A Boogie Wit da Hoodie,31W5EY0aAly4Qieq6OFu6I,0,0.48,0.679,4,-6.776,0,0.264,0.452,0.0,0.152,0.29,81.186,148676,5,94,melodic rap,pop
+57vxBYXtHMk6H1aD29V7PU,88,Heartless,The Weeknd,1Xyo4u8uXC1ZmMpatF05PJ,0,0.531,0.75,10,-5.831,0,0.111,0.00632,7.6e-05,0.117,0.198,169.954,200080,4,97,canadian contemporary r&b,pop
+4Hqh0dS4x07zuRw6eBTO7p,77,20/20,Lil Tjay,6jGMq4yGs7aQzuGsMgVgZR,0,0.8859999999999999,0.336,4,-12.779000000000002,1,0.239,0.557,0.0,0.0933,0.536,100.044,230448,4,87,melodic rap,pop
+0rTV5WefWd1J3OwIheTzxM,78,Talk,Khalid,6LuN9FCkKOj5PcnpouEgny,1,0.9,0.4,0,-8.443,1,0.124,0.0501,0.0,0.0876,0.338,136.001,197487,4,96,alternative r&b,pop
+0nbXyq5TXYPCO7pr3N8S4I,100,The Box,Roddy Ricch,757aE44tKEUQEqRuT6GnEB,0,0.8959999999999999,0.586,10,-6.687,0,0.0559,0.104,0.0,0.79,0.642,116.971,196653,4,96,melodic rap,pop
+3oqC4Ta40ft6NnTJwcUTdi,64,Pipa Voada (feat. Emicida),Rashid,5WgRuO0mhM36NFoapzpWBH,1,0.758,0.732,5,-5.511,0,0.051,0.489,0.0,0.13,0.924,90.038,185333,4,66,brazilian hip hop,pop
+4ygXJj7Mpn9y8nxhDRufaY,64,Sobrou Silêncio,Rashid,5WgRuO0mhM36NFoapzpWBH,1,0.825,0.765,11,-5.0280000000000005,0,0.12,0.369,0.0,0.321,0.277,92.052,192717,4,66,brazilian hip hop,pop
+2GBwxkBpmhs9UoDxsBeP4a,64,Cigana,Malibu,0PMk31f9Log4ixwUUY40p6,1,0.6759999999999999,0.5379999999999999,11,-7.089,0,0.0462,0.374,0.0,0.111,0.5489999999999999,145.959,265753,4,58,,pop
+6l1PdE7lQbodewVQh16GCM,72,Sei Lá,Projota,2zGf6lwQ9PxXdoeo5XXP2K,1,0.6609999999999999,0.43,6,-8.738,1,0.0422,0.519,0.0,0.111,0.962,151.955,190364,3,75,brazilian hip hop,pop
+3Vm5NxQWmQ5ozZpIJHjFaH,64,Pra Te Convencer,Haikaiss,53iGNetIf91uZx4Jb54cgb,1,0.789,0.715,9,-3.804,0,0.339,0.279,0.0,0.0938,0.907,91.803,222378,4,69,brazilian edm,pop
+6noK1SfpBpTIGiGhBRbGGL,51,Geometria,Orgânico,5UOOgRWguRmVZo1voJuQpf,1,0.797,0.6829999999999999,7,-5.075,1,0.238,0.496,0.0,0.0944,0.7709999999999999,95.123,251053,4,67,brazilian hip hop,pop
+0fea68AdmYNygeTGI4RC18,88,LA CANCIÓN,J Balvin,1vyhD5VmyZ7KMfW5gqLgo5,1,0.754,0.6459999999999999,7,-5.795,1,0.317,0.152,1.85e-05,0.108,0.429,176.08900000000003,242573,4,99,latin,pop
+74gvfUeukgShMIZ2FH3PTc,72,6.3,Naps,6W5uA6CNMf3hd2j4a2XWCx,1,0.875,0.614,3,-7.237999999999999,0,0.212,0.69,0.0,0.114,0.753,119.963,212320,4,73,french hip hop,pop
+5GyyPRvEwdI4wJSUbzxHQv,78,Blanche,Maes,6L34dW6SKMSDaGIfYDU19j,1,0.7759999999999999,0.713,4,-6.121,0,0.14300000000000002,0.525,0.0,0.306,0.551,127.987,193453,4,84,french hip hop,pop
+4Nfak8iMF4kQfQ6Pa8Z79m,78,Dybala,Maes,6L34dW6SKMSDaGIfYDU19j,1,0.7290000000000001,0.721,10,-5.83,0,0.0761,0.256,0.0,0.111,0.537,132.304,211227,4,84,french hip hop,pop
+0fjeOEBCmt1nAdoux2TDKF,72,MD,Niska,7CUFPNi1TU8RowpnFRSsZV,1,0.41,0.7290000000000001,4,-5.252999999999999,0,0.4,0.499,0.0,0.124,0.593,75.301,210827,4,80,french hip hop,pop
+2iuNKcIOuHb9VIplN7NDoa,74,Distant,Maes,6L34dW6SKMSDaGIfYDU19j,1,0.747,0.731,4,-6.305,0,0.194,0.555,0.0,0.0662,0.493,105.074,162013,4,84,french hip hop,pop
+1Wfe6IKCZDWqKSXNmn2tvt,68,Gasolina (feat. Gambi),Hamza,5gs4Sm2WQUkcGeikMcVHbh,1,0.951,0.611,2,-7.875,0,0.188,0.285,0.000296,0.117,0.7240000000000001,129.999,179385,4,73,belgian hip hop,pop
+5BfCoUcWNXcpyJfjXRIeyC,79,Moulaga,Heuss L'enfoiré,3YwqjMyrRfuixi2pbgTGCE,1,0.71,0.6990000000000001,7,-4.664,0,0.1,0.327,4.64e-06,0.0975,0.484,125.051,179868,4,80,french hip hop,pop
+0kp0ovTvyYUdoexEt7AcoL,76,Ne reviens pas,Gradur,2tcoLkA9Hexz70Kuc1NTUl,1,0.932,0.762,10,-3.3760000000000003,0,0.0747,0.222,0.0,0.16399999999999998,0.931,124.975,188613,4,75,french hip hop,pop
+4zULM3R99kAHqJkJDCIR4C,65,Combien,Kaza,4MRRW42s9ymwa5zu4xTKJh,0,0.667,0.634,4,-6.977,0,0.0534,0.0498,0.0,0.201,0.423,159.091,197933,4,65,french hip hop,pop
+0kzGjSRHGVcaWxagzQwAyD,67,Bando,ANNA,7K80yOTC0Id95gRaOxDG5u,0,0.97,0.7390000000000001,10,-4.917,0,0.295,0.155,0.0,0.111,0.414,120.061,168000,4,58,,pop
+1cg6IqyZgBCU6P34gY161z,33,Na Na Na,Holden,3XTUciJcdix4GkO9YoBdtP,0,0.496,0.632,10,-7.94,0,0.276,0.393,0.0,0.359,0.532,53.808,126569,4,63,italian arena pop,pop
+2p37Mfy2PWajgOS3i2aaep,66,"U Say (feat. Tyler, The Creator & Jay Prince)",GoldLink,5XenQ7XfcvQdfIbpLEFaKQ,1,0.926,0.68,2,-7.689,1,0.196,0.0471,0.000125,0.119,0.458,114.981,201240,4,76,alternative r&b,pop
+4TnjEaWOeW0eKTKIEvJyCa,97,Falling,Trevor Daniel,7uaIm6Pw7xplS8Dy06V6pT,0,0.784,0.43,10,-8.756,0,0.0364,0.123,0.0,0.0887,0.236,127.087,159382,4,88,alternative r&b,pop
+3Vc8vnid3noqupe9PvUKxP,68,Dizeres,Lourena,3jLj1sAQaEpLpktyJmyGIh,1,0.8320000000000001,0.484,10,-4.06,1,0.189,0.665,1.02e-05,0.0822,0.83,142.111,257646,4,67,r&b brasileiro,pop
+0CmoisdB4maBgLV5MajnL4,69,"No Service In The Hills (feat. Trippie Redd, Blackbear, PRINCE$$ ROSIE)",Cheat Codes,7DMveApC7UnC2NPfPvlHSU,1,0.542,0.7390000000000001,7,-4.857,1,0.0395,0.00445,0.0,0.306,0.338,156.07399999999996,153764,4,82,dance pop,pop
